@@ -9,7 +9,10 @@ This web infrastructure is composed of:
   - 1 Application Server
   - 1 Set of Application Files (Codebase)
   - 1 MySQL Database
-![Simple Web Stack](task1)
+ ---
+  ## Diagram
+
+![Simple Web Stack](task1.png)
 ---
 
 ##  Element Explanations
