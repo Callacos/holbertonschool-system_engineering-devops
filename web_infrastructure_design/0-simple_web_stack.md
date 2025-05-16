@@ -1,4 +1,4 @@
-# Task 0 - Simple Web Stack
+# Simple Web Stack
 
 This diagram represents a basic one-server web infrastructure for the domain `www.foobar.com`.
 
